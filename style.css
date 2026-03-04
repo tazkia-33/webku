@@ -45,6 +45,7 @@ body{
      background-color:#FCF5EE;
      display:block;
 }
+
 .content{
      width:90%;
      margin:auto;
@@ -53,5 +54,15 @@ body{
      background:#fff;
      color:#333;
 }
+
+.border{ 
+     border:2px solid #4887b9
+     margin-top:1pc;
+     padding-bottom:1pc;
+     padding-left:2pc;
+     padding-right:2pc;
+}
+     
+     
 
 
