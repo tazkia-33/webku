@@ -51,12 +51,12 @@ body{
      margin:auto;
      height:420px;
      padding:0.1px;
-     background:#000;
+     background:#fff;
      color:#333;
 }
 
 .border{ 
-     border:2px solid #000000
+     border:2px solid #EE6983
      margin-top:1pc;
      padding-bottom:1pc;
      padding-left:2pc;
